@@ -1,11 +1,11 @@
-package br.com.project.factory.apple;
+package br.com.project.factory.hard.apple;
 
-import br.com.project.factory.apple.factory.IPhone11ProFactory;
-import br.com.project.factory.apple.factory.IPhone12Factory;
-import br.com.project.factory.apple.factory.IPhone12ProMaxFactory;
-import br.com.project.factory.apple.factory.IPhoneFactory;
-import br.com.project.factory.apple.factory.IPhoneXFactory;
-import br.com.project.factory.apple.model.IPhone;
+import br.com.project.factory.hard.apple.factory.IPhone11ProFactory;
+import br.com.project.factory.hard.apple.factory.IPhone12Factory;
+import br.com.project.factory.hard.apple.factory.IPhone12ProMaxFactory;
+import br.com.project.factory.hard.apple.factory.IPhoneFactory;
+import br.com.project.factory.hard.apple.factory.IPhoneXFactory;
+import br.com.project.factory.hard.apple.model.IPhone;
 
 public class ClientFactory {
 	

@@ -1,4 +1,4 @@
-package br.com.project.factory.apple.model;
+package br.com.project.factory.hard.apple.model;
 
 public abstract class IPhone {
 	

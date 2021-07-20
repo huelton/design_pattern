@@ -1,6 +1,6 @@
-package br.com.project.factory.apple.factory;
+package br.com.project.factory.hard.apple.factory;
 
-import br.com.project.factory.apple.model.IPhone;
+import br.com.project.factory.hard.apple.model.IPhone;
 
 public abstract class IPhoneFactory {
 
